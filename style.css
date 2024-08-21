@@ -1,1 +1,17 @@
-p{font-size:75px}
+p{
+    font-size:38px
+}
+section {
+    margin: 78px;
+    font-size: 54px
+    
+}
+.blue{
+    background-color: blue;
+}
+.purple{
+    background-color: purple;
+}
+.pink{
+    background-color: pink;
+}
